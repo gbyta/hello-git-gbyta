@@ -164,3 +164,5 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 
 
 Práctica realizada por: Gabriela Monserrat Aguilar González (gbyta)
+### Experiencia con los comandos de Git
+A lo largo de esta actividad logré familiarizarme con el funcionamiento básico de Git y GitHub para el control de versiones. Pude configurar mi identidad global, clonar un proyecto remoto y revisar su historial mediante `git status` y `git log`. Asimismo, crear una rama independiente con `git checkout -b` para realizar modificaciones y después integrarlas a la rama principal con `git merge` me ayudó a comprender cómo trabajar de manera ordenada antes de sincronizar los cambios en la nube con `git push`.
